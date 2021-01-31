@@ -4,35 +4,17 @@
         "position": 1,
         "startAt": "02-02-2009",
         "endAt": "12-24-2010",
-        "companyName": "Fácil Tecnologias",
+        "companyName": "Project 1",
         "website": "http://www.faciltecnologias.com.br/",
         "logo": "../../assets/template/experience/logo/facil-logo.png",
         "internationalizations": [
             {
-                "language": "pt",
-                "city": "Uberaba",
-                "country": "Brasil",
-                "role": "Estágio Webmaster",
-                "description": "A <b>Fácil Tecnologias LTDA</b> é uma empresa focada em soluções para educação, seu principal produto é um conjunto de soluções para estudos na obtenção da <i>carteira nacional de habilitação (CNH)</i>, entre elas, multimídias, aplicativos on-line, aplicativos móveis, livros, entre outros. <br><br>Na <i>Fácil Tecnologias LTDA</i>, entrei em contato com desenvolvedores seniores, aprendendo as melhores práticas, padrões e como debater idéias e oferecer soluções diversas para o mesmo problema. Foi o ponto de partida, uma oportunidade única de transformar o conhecimento teórico em soluções concretas que estavam sendo usadas por centenas de pessoas todos os dias."
-            },
-            {
                 "language": "en",
-                "city": "Uberaba",
-                "country": "Brazil",
-                "role": "Webmaster intern",
-                "description": "<b>Fácil Tecnologias LTDA</b> is a company focused in solutions for education, its main product is a set of solutions for studying for getting the <i>driver license</i>, among them, there are multimedia, online applications, mobile apps, books, and others.<br><br>At <i>Fácil Tecnologias LTDA</i>, I got in touch with senior developers, learning best practices, patterns, and how to debate ideas and offer various solutions for the very same problem. It was the start point, a unique opportunity to turn theoretical knowledge into concrete solutions that were being used by hundreds of people every day."
+                "role": "Maybe: schools/names that worked on project",
+                "description": "Lalalla something that the SSAC did idk stuff there was a water fountain thing someone did at some point lol"
             }
         ],
-        "technologies": [
-            "PHP", "Zend Framework", "Cake Framework", "HTML", "CSS", "CSS3", "Javascript", "jQuery", "AJAX", "SOAP", "Joomla", "Wordpress", "SVN", "SQL", "MySQL", "PostgreSQL", "Windows"
-        ],
-        "medias": [
-            {
-                "icon": "facebook",
-                "title": "Facebook Editora Nosso Trânsito",
-                "http": "https://www.facebook.com/editoranossotransito/"
-            }
-        ],
+    
         "backgroundUrl": "../../assets/template/experience/uberaba.jpg"
     },
     {
@@ -44,13 +26,7 @@
         "website": "https://www.e-tatica.com/",
         "logo": "../../assets/template/experience/logo/etatica-logo.png",
         "internationalizations": [
-            {
-                "language": "pt",
-                "city": "Rio de Janeiro",
-                "country": "Brasil",
-                "role": "Desenvolvedor Full-stack",
-                "description": "A <b>E-tática</b> é uma agência especializada em soluções para <i>comércio eletrônico</i>, marketing digital e identidade visual desde 2008, trabalhando com grandes, pequenos e médios negócios, oferecendo para seus clientes, o know-how na integração de seus negócios com <i>Sistemas integrados de gestão empresarial (ERP)</i> e <i>APIs de terceiros</i>, tais como <i>provedores de pagamento personalizados</i>, fazendo a integração do gerenciamento interno da plataforma on-line e da loja física, sendo certificada pelas principais plataformas do mercado.<br><br>Na <i>E-tática </i>, trabalhei para desenvolver soluções personalizadas para clientes do atacado e varejo, valorizando a qualidade e a continuidade dos projetos a médio e longo prazo."
-            },
+
             {
                 "language": "en",
                 "city": "Rio de Janeiro",
@@ -125,13 +101,7 @@
         "companyName": "Skydreamer",
         "logo": "../../assets/template/experience/logo/skydreamer-logo.png",
         "internationalizations": [
-            {
-                "language": "pt",
-                "city": "Utrecht",
-                "country": "Países Baixos",
-                "role": "Desenvolvedor Full-stack",
-                "description": "Na <b>Skydreamer Startup</b>, fui convidado para fazer parte da equipe de desenvolvimento do primeiro aplicativo móvel europeu que transformaria o planejamento de viagens entre amigos em um <i>Jogo de Swipe & Match</i>, oferecendo milhares de destinos em todo o mundo. Sempre com as melhores ofertas de voos, hotéis e apartamentos.<br><br>Na <i>Skydreamer</i>, tive a incrível experiência de vivenciar um <i> ambiente de startup</i>, os prós e os contras , expandindo minha mente de como liderar com o gerenciamento remoto, com prazos curtos e recursos muito limitados. Em setembro de 2017, com a versão <i>Beta</i> em execução e com vários usuários reais, fomos até a <i>TechCrunch Disrupt<i> em São Francisco, onde recebemos uma oferta de uma agência internacional de esportes e entretenimento."
-            },
+      
             {
                 "language": "en",
                 "city": "Utrecht",
