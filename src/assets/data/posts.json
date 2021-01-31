@@ -2,34 +2,25 @@
     {
         "thumbnail": "../../assets/posts/post-11-03-2019.jpg",
         "http": "https://www.linkedin.com/pulse/anti-traversing-2d-array-formula-guilherme-borges-bastos/",
-        "date": "11-03-2019",
+        "date": "01-31-2021",
         "internationalizations": [
             {
                 "language": "en",
-                "title": "The anti-traversing 2D Array formula.",
-                "description": "Have you ever thought about the <b>mathematical relation</b> between the <i>columns</i> and <i>rows</i> of a bidimensional array <i>(2d matrix)</i>? This data structure hides a <b>data location formula</b> that helped me to avoid the <i>time complexity of O(n²)</i>, which is a terrible scenario, turning it into a <i>constant time complexity - O(1)</i>. A full explanation, with real test cases and Unit Tests are waiting for you."
-            },
-            {
-                "language": "pt",
-                "title": "A fórmula de matriz 2D anti-deslocamento.",
-                "description": "Você já pensou na <b>relação matemática</b> entre as<i> colunas</i> e as <i>linhas</i> de uma matriz bidimensional <i>(matriz 2d)</i>? Essa estrutura de dados oculta uma <b>fórmula de localização de dados</b> que me ajudou a evitar a <i>complexidade de tempo de O(n²)</i>, que é um cenário péssimo, transformando-a em uma <i>complexidade do tempo constante - O(1)</i>. Uma explicação completa, com casos de teste reais e testes de unidade, está esperando por você."
+                "title": "MPS High School Students: Apply now!",
+                "description": "Do you want to have an impact on MPS by being an <b>SSAC member</b>? Apply now! "
             }
+        
         ]
     },
     {
         "thumbnail": "../../assets/posts/post-01-15-2019.jpg",
         "http": "https://www.linkedin.com/pulse/em-2019-saia-do-desemprego-seja-voc%C3%AA-um-web-developer-borges-bastos/",
-        "date": "01-15-2019",
+        "date": "02-04-2021",
         "internationalizations": [
             {
                 "language": "en",
-                "title": "In 2019, get out of unemployment! Be a Web Developer.",
-                "description": "There were numerous vacancies for <i>web developers</i> on the wall, at the same time, <b>12.7 million people were unemployed</b> in Brazil, such a sad situation persisted in my mind. Back at my house, I've recalled a free course, offered by the renowned <i>Bob Tabor (Senior Program Manager at Microsoft)</i>, present at Microsoft Virtual Academy."
-            },
-            {
-                "language": "pt",
-                "title": "Em 2019, saia do desemprego! Seja você um Web Developer.",
-                "description": "Lá estavam no mural, inúmeras vagas para desenvolvedor web. E ao mesmo tempo, haviam <b>12,7 Milhões de compatriotas desempregados</b> e tais vagas em aberto ficaram matutando em minha cabeça. De volta à minha casa, me recordo de um curso gratuito, disponibilizado pelo renomado <i>Bob Tabor (Senior Program Manager na Microsoft)</i>, presente na Microsoft Virtual Academy."
+                "title": "Meet our members!",
+                "description": "Learn about the MPS students making waves in the MPS community!"
             }
         ]
     },
@@ -40,13 +31,8 @@
         "internationalizations": [
             {
                 "language": "en",
-                "title": "Map Item Navigation for Android - <i>Open-source component</i>.",
-                "description": "For great user experience, the usage of maps together with the ordered list is used very often in mobile applications. This article presents an open-source application for Android that provides a fully functional component."
-            },
-            {
-                "language": "pt",
-                "title": "Navegação por Item no Mapa para Android - <i>Componente de código aberto</i>.",
-                "description": "Para uma ótima experiência do usuário, o uso de mapas junto com a lista ordenada é usado com muita frequência em aplicativos móveis. Este artigo apresenta um aplicativo de código aberto para Android que fornece um componente totalmente funcional."
+                "title": "Curious about meeting?  Access our notes!",
+                "description": "Descript for notes."
             }
         ]
     },
