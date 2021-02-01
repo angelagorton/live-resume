@@ -12,15 +12,15 @@
     <div class="container" [ngClass]="{'fade': hasBeenSubmited}">
         <div class="left-side">
             <div class="title">
-                <h1 i18n="nav@@contact">Contact</h1>
+                <h1>Contact Us</h1>
             </div>
             <div class="top-container">
-                <div class="picture"></div>
-                <div class="info">
-                    <p class="name" *ngIf="name"><span itemprop="name">{{ name }}</span></p>
-                    <p class="email" *ngIf="email"><fa-icon [icon]="faEnvelope" class="icon" title="Email"></fa-icon><a  href="mailto:{{ email }}" itemprop="email">{{ email }}</a></p>
-                    <p class="phone" *ngIf="phone"><fa-icon [icon]="faPhone" class="icon" title="Phone"></fa-icon><span itemprop="telephone">{{ phone }}</span></p>
-                    <p class="location" *ngIf="location"><fa-icon [icon]="faMapMarkerAlt" class="icon" title="City"></fa-icon><span itemprop="city">{{ location }}</span></p>
+                 <div class="picture"></div>
+               <div class="info">
+                    <p class="name"><span itemprop="name">SSAC</span></p>
+                    <p class="email" ><fa-icon [icon]="faEnvelope" class="icon" title="Email"></fa-icon><a  itemprop="email">ssac@gmail.com</a></p>
+                    <p class="phone" ><fa-icon [icon]="faPhone" class="icon" title="Phone"></fa-icon><span itemprop="telephone">Possibly include phone #</span></p>
+                    <p class="location"><fa-icon [icon]="faMapMarkerAlt" class="icon" title="City"></fa-icon><span itemprop="city">Milwaukee, Wisconsin</span></p>
                 </div>
             </div>
             <div class="bottom-container">
@@ -60,6 +60,6 @@
         </div>
         <div class="right-side"></div>
     </div>
-    <img loading="lazy" height="705" src="./assets/template/contact/gbastos-Illustration.png" class="illustration" alt="illustration" itemprop="avatar">
+    <img loading="lazy" height="705" class="illustration" alt="illustration" itemprop="avatar">
     <div class="half-circle"></div>
 </section>
